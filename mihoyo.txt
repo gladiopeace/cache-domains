@@ -1,4 +1,7 @@
 # Honkai Impact 3rd
 download-sea.mihoyo.com
+*.mihoyo.com
 # Genshin Impact
 autopatchhk.yuanshen.com
+*.yuanshen.com
+
