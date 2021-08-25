@@ -45,6 +45,11 @@
 			"description": "Nexus mods / skyrim content",
 			"domain_files": ["nexusmods.txt"]
 		},
+    {
+      "name": "mihoyo",
+      "description": "CDN for miHoYo",
+      "domain_files": ["mihoyo.txt"]
+    },
 		{
 			"name": "neverwinter",
 			"description": "Cryptic CDN for Neverwinter",
