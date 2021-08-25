@@ -2,6 +2,6 @@
 download-sea.mihoyo.com
 *.mihoyo.com
 # Genshin Impact
-autopatchhk.yuanshen.com
-*.yuanshen.com
+#autopatchhk.yuanshen.com
+#*.yuanshen.com
 
