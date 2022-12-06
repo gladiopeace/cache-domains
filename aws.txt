@@ -1,3 +1,6 @@
 *.amazonaws.com
 .*s3-us-west-2.amazonaws.com
 *.*.amazonaws.com
+*.quixel.com
+*.cloudfront.net
+*.megascans.se
