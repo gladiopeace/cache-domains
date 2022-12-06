@@ -4,3 +4,4 @@
 *.quixel.com
 *.cloudfront.net
 *.megascans.se
+*.algolia.net
