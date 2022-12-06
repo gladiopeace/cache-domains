@@ -5,3 +5,5 @@
 *.cloudfront.net
 *.megascans.se
 *.algolia.net
+quixel-megascans-static.s3-us-west-2.amazonaws.com
+quixel-megascans-static.*.amazonaws.com
